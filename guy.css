@@ -1,0 +1,30 @@
+
+body {  
+text-align:center;
+background: linear-gradient(#AB47BC 0%, #673AB7 100%);
+background-repeat: no-repeat;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+hover:enabled {
+color: aqua;    
+}
+#thing {
+width: 300px; 
+ border-radius: 50%;
+}
+
+.menu {
+ font-family: "comic"0; 
+}
+p {
+ padding: 20px;
+ font-size: 18px;
+  text-align:center;
+}
+
+h1 {
+  text-shadow: 2px 2px #9FA8DA;
+  font-size: 20px;
+}
